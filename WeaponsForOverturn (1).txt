@@ -1,0 +1,72 @@
+Melee: 1.Power Gloves, 2. Chainsaw
+
+Handguns: 3. Glock, 5. 357, 6. Flaregun
+
+Shottys: 7. Shotgun, 8. Stakeout
+
+Automatic Rifles: 9. M16
+
+Rifles: 10. Harpoon
+
+Heavy: 11. GAU19
+
+Explosives: 12. Flamethrower, 13. Grenade Launcher - Can only carry 1 at a time
+
+Experimental: 14. Tesla
+
+# Details
+
+
+Power Gloves - Ivan's fists, no secondary just hit stuff - Ammo: None?  
+
+Chainsaw - DOOM - Ammo: None?
+
+Glock - Same as HL - Ammo: 9mm clips - 18 rounds
+
+357 - Same as HL, but laser instead, goes down for a second after six shots like Duke - Ammo: 357 rounds - 6 rounds --> Add reloading back to this weapon, after all, it has a barrel.
+
+Flaregun - Like in Blood, fires once then reloads and lights any players it hits on fire - Ammo: Flarebox mounted on the wall (like HL2 beta/Missing Info).
+
+Shotgun - Same as HL - Ammo: 12 gauge - 8 shells
+
+Stakeout - Like the one from TFC except it fires fast on secondary - Ammo: 20 gauge - 12 shells
+
+M16 - Slower than current MP5, secondary burst fires but no grenades - Ammo: M16Clip - 25 bullets, 3 for burst (subject to change)
+
+Harpoon - Fires like crossbow but slower; maybe a little zoom - Ammo: Spears - 1 Spear
+
+GAU19 - Big minigun, has 300, very powerful but slow and kickback.
+
+Flamethrower - NOTE: IF IT IS TOO MUCH THEN WE WILL KEEP IT A BASIC FLAMETHROWER AND COME BACK TO THE REST LATER. Shoots fire like in TFC, other ammo types are Acid and Freeze. Secondary switches the different ammo type and plays a sound and animation on the viewmodel - Ammo: Napalm Canisters, Freeze Canisters, pickups radiations for acid fire - 200 for big canisters, 100 per one canister, 20 for radiotion.
+
+Grenade Launcher - NOTE: SAME SITUATION WITH FLAMETHROWER. Has three modes, normal grenades, sticky, and proximity - Ammo: Grenades, maybe all together in a pile - 1 grenade per mode
+
+Tesla - Has two fire modes, first is like the one from Blood, second is like the lightning gun from Quake - Ammo: Electric Charge - 25 per charge?
+
+# Death Messages
+
+Suicide: Player hates this mod
+
+Chainsaw: Player wanted to rip Player2 a new one
+
+Glock: ?
+
+357: Player2 thought Player only fired five shots
+
+Flaregun: Player used Player2 for firewood
+
+Shotgun: ?
+
+Stakeout: Player gets up close and personal with player2
+
+M16: Player2 forgot this wasn't Counter-Strike
+
+Harpoon: Player Shafted player2 with his harpoons
+
+GAU19: Player Shredded player2 at a thousand rounds per minute
+
+Flamethrower: Player likes Player2 extra crispy
+
+Grenade Launcher: Player repainted the walls with player2
+
+Tesla: Player mistakened Player2 for Edison

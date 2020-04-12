@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cl_dll", "cl_dll\cl_dll.vcproj", "{367AE0F7-CD4D-44E0-A2E2-34B9C6A3E51A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hl", "dlls\hl.vcproj", "{505681C2-3E57-300B-D330-46DD50C147D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367AE0F7-CD4D-44E0-A2E2-34B9C6A3E51A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{367AE0F7-CD4D-44E0-A2E2-34B9C6A3E51A}.Debug|Win32.Build.0 = Debug|Win32
+		{367AE0F7-CD4D-44E0-A2E2-34B9C6A3E51A}.Release|Win32.ActiveCfg = Release|Win32
+		{367AE0F7-CD4D-44E0-A2E2-34B9C6A3E51A}.Release|Win32.Build.0 = Release|Win32
+		{505681C2-3E57-300B-D330-46DD50C147D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{505681C2-3E57-300B-D330-46DD50C147D2}.Debug|Win32.Build.0 = Debug|Win32
+		{505681C2-3E57-300B-D330-46DD50C147D2}.Release|Win32.ActiveCfg = Release|Win32
+		{505681C2-3E57-300B-D330-46DD50C147D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
